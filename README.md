@@ -1,6 +1,6 @@
 # C-CPU
 
-## [CMPE 200] - CPU (x86) Simulation
+## [CMPE 220] - CPU (x86) Simulation
 
 - [x] Designed a virtual CPU to load and store data using simulated registers and memory using C programming
 - [x] Developed functionality for an ALU along with conditional codes, jumps and function calls
